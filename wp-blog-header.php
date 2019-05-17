@@ -20,7 +20,6 @@ if ( !isset($wp_did_header) ) {
 echo "its test case for experiemcehxAJxklKX";
 
 
-	require_once( ABSPATH . WPINC . '/template-loader.php' );
-	echo "here";
+	
 
 }
