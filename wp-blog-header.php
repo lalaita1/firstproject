@@ -16,6 +16,11 @@ if ( !isset($wp_did_header) ) {
 
 
 	// Load the theme template.
+
 echo "its test case for experiemcehxAJxklKX";
+
+
+	require_once( ABSPATH . WPINC . '/template-loader.php' );
+	echo "here";
 
 }
